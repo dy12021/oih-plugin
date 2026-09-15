@@ -1,0 +1,44 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Windows reserved / metadata
+*:Zone.Identifier
+
+# Build outputs (none here, but future-proof)
+dist/
+build/
+*.log
+
+# Local model / data — never commit weights or job outputs
+models/
+data/
+inputs/
+outputs/
+*.pdb
+*.cif
+*.gro
+*.xtc
+*.tpr
+*.bin
+*.safetensors
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+
+# Python / venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Plugin runtime artifacts (kept locally by MiniMax Code)
+.minimax/
