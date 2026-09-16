@@ -1,6 +1,6 @@
 ---
 name: oih-autodock-gpu
-description: AutoDock4 GPU docking with autodock-gpu (Docker container oih-autodock-gpu) — requires a precomputed autogrid maps (.maps.fld) file Trigger: When the user asks to run AutoDock4 docking on GPU given a precomputed grid (maps.fld) and a ligand pdbqt — fast batch docking once grids exist
+description: "AutoDock4 GPU docking with autodock-gpu (Docker container oih-autodock-gpu) - requires a precomputed autogrid maps (.maps.fld) file Trigger: When the user asks to run AutoDock4 docking on GPU given a precomputed grid (maps.fld) and a ligand pdbqt - fast batch docking once grids exist"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

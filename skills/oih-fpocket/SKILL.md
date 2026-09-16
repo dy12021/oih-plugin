@@ -1,6 +1,6 @@
 ---
 name: oih-fpocket
-description: Detect and rank protein binding pockets with fpocket (Docker container oih-fpocket) Trigger: When the user asks to detect binding pockets, find binding sites, identify cavities, or assess druggability of a protein structure (PDB/mmCIF)
+description: "Detect and rank protein binding pockets with fpocket (Docker container oih-fpocket) Trigger: When the user asks to detect binding pockets, find binding sites, identify cavities, or assess druggability of a protein structure (PDB/mmCIF)"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

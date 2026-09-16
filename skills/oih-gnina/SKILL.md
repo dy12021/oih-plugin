@@ -1,6 +1,6 @@
 ---
 name: oih-gnina
-description: Deep-learning molecular docking with gnina (Docker container oih-gnina) — CNN-scored pose prediction from a receptor PDB and a SMILES ligand Trigger: When the user asks to dock a small molecule (SMILES) into a protein binding site with deep learning scoring, or wants docked poses + CNN affinity/Score for a receptor/ligand pair
+description: "Deep-learning molecular docking with gnina (Docker container oih-gnina) - CNN-scored pose prediction from a receptor PDB and a SMILES ligand Trigger: When the user asks to dock a small molecule (SMILES) into a protein binding site with deep learning scoring, or wants docked poses + CNN affinity/Score for a receptor/ligand pair"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

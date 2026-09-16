@@ -1,6 +1,6 @@
 ---
 name: oih-vina-gpu
-description: Fast GPU molecular docking with Vina-GPU (Docker container oih-vina-gpu) — pdbqt-based docking in a user-defined box Trigger: When the user asks to dock a ligand (pdbqt) into a receptor (pdbqt) quickly on GPU with AutoDock Vina scoring, given a binding box center
+description: "Fast GPU molecular docking with Vina-GPU (Docker container oih-vina-gpu) - pdbqt-based docking in a user-defined box Trigger: When the user asks to dock a ligand (pdbqt) into a receptor (pdbqt) quickly on GPU with AutoDock Vina scoring, given a binding box center"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

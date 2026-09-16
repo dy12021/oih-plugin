@@ -1,6 +1,6 @@
 ---
 name: oih-discotope3
-description: Predict B-cell epitopes on protein structures with Discotope3 (Docker container oih-discotope3) Trigger: When the user asks to predict B-cell epitopes, antibody epitope residues, antigenic surface regions, or vaccine/immunogenicity-relevant sites on a protein structure
+description: "Predict B-cell epitopes on protein structures with Discotope3 (Docker container oih-discotope3) Trigger: When the user asks to predict B-cell epitopes, antibody epitope residues, antigenic surface regions, or vaccine/immunogenicity-relevant sites on a protein structure"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

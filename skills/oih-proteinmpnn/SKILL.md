@@ -1,6 +1,6 @@
 ---
 name: oih-proteinmpnn
-description: Design protein sequences for a given backbone structure with ProteinMPNN (Docker container oih-proteinmpnn) Trigger: When the user asks to design sequences for a protein structure, fix/salvage a backbone with sequence design, or generate variant sequences for a PDB (fixed-backbone sequence design)
+description: "Design protein sequences for a given backbone structure with ProteinMPNN (Docker container oih-proteinmpnn) Trigger: When the user asks to design sequences for a protein structure, fix/salvage a backbone with sequence design, or generate variant sequences for a PDB (fixed-backbone sequence design)"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

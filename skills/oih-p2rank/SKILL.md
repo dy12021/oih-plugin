@@ -1,6 +1,6 @@
 ---
 name: oih-p2rank
-description: Predict and rank protein binding pockets with P2Rank machine learning (Docker container oih-p2rank) Trigger: When the user asks for ML-based binding pocket prediction, ligandable site ranking, or a cross-check of fpocket pocket detection on a protein structure (PDB)
+description: "Predict and rank protein binding pockets with P2Rank machine learning (Docker container oih-p2rank) Trigger: When the user asks for ML-based binding pocket prediction, ligandable site ranking, or a cross-check of fpocket pocket detection on a protein structure (PDB)"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

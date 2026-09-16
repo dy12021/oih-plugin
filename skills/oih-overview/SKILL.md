@@ -1,6 +1,6 @@
 ---
 name: oih-overview
-description: Overview of the OIH Bio Tools plugin — 17 containerized/host computational-biology tools, paths, conventions, and prerequisites. Trigger: When the user asks what bio tools are available or how the plugin is organized
+description: "Overview of the OIH Bio Tools plugin - 17 containerized/host computational-biology tools, paths, conventions, and prerequisites. Trigger: When the user asks what bio tools are available or how the plugin is organized"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

@@ -1,6 +1,6 @@
 ---
 name: oih-pesto
-description: Predict protein-protein interface residues with PeSTo (Docker container oih-proteinmpnn) Trigger: When the user asks to predict protein-protein interaction interfaces, binding surface residues, PPI hotspots, or interaction sites on a protein structure
+description: "Predict protein-protein interface residues with PeSTo (Docker container oih-proteinmpnn) Trigger: When the user asks to predict protein-protein interaction interfaces, binding surface residues, PPI hotspots, or interaction sites on a protein structure"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

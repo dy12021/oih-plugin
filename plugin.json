@@ -18,24 +18,5 @@
     "rfdiffusion",
     "gromacs",
     "antibody"
-  ],
-  "skills": [
-    "skills/oih-overview/SKILL.md",
-    "skills/oih-alphafold3/SKILL.md",
-    "skills/oih-bindcraft/SKILL.md",
-    "skills/oih-discotope3/SKILL.md",
-    "skills/oih-fpocket/SKILL.md",
-    "skills/oih-igfold/SKILL.md",
-    "skills/oih-autodock-gpu/SKILL.md",
-    "skills/oih-chemprop/SKILL.md",
-    "skills/oih-diffdock/SKILL.md",
-    "skills/oih-esm/SKILL.md",
-    "skills/oih-freesasa/SKILL.md",
-    "skills/oih-gnina/SKILL.md",
-    "skills/oih-gromacs/SKILL.md",
-    "skills/oih-p2rank/SKILL.md",
-    "skills/oih-vina-gpu/SKILL.md",
-    "skills/oih-pesto/SKILL.md",
-    "skills/oih-proteinmpnn/SKILL.md"
   ]
 }

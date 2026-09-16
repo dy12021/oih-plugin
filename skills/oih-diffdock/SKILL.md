@@ -1,6 +1,6 @@
 ---
 name: oih-diffdock
-description: Diffusion-model molecular docking with DiffDock (Docker container oih-diffdock) — blind docking from receptor PDB + SMILES with confidence scores Trigger: When the user asks to dock a ligand by SMILES into a receptor without specifying a binding box, or wants equivariant diffusion docking poses with confidence scores
+description: "Diffusion-model molecular docking with DiffDock (Docker container oih-diffdock) - blind docking from receptor PDB + SMILES with confidence scores Trigger: When the user asks to dock a ligand by SMILES into a receptor without specifying a binding box, or wants equivariant diffusion docking poses with confidence scores"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

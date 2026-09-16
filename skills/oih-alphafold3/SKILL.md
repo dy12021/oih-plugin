@@ -1,6 +1,6 @@
 ---
 name: oih-alphafold3
-description: Predict protein/RNA/DNA/ligand complex structures with AlphaFold 3 (container oih-alphafold3, models + databases on E:) Trigger: When the user asks for AlphaFold3 / AF3 structure prediction, folding a protein sequence, or validating a designed binder against its target
+description: "Predict protein/RNA/DNA/ligand complex structures with AlphaFold 3 (container oih-alphafold3, models + databases on E:) Trigger: When the user asks for AlphaFold3 / AF3 structure prediction, folding a protein sequence, or validating a designed binder against its target"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

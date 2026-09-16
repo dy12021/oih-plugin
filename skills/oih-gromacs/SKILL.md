@@ -1,6 +1,6 @@
 ---
 name: oih-gromacs
-description: Protein molecular dynamics setup and short simulation with GROMACS (Docker container oih-gromacs) — pdb2gmx, solvation, ions, minimization, NVT/NPT equilibration, production MD Trigger: When the user asks to run a (quick) molecular dynamics simulation of a protein, prepare a solvated+neutralized system, or produce equilibrated gro/xtc/tpr files for a protein structure
+description: "Protein molecular dynamics setup and short simulation with GROMACS (Docker container oih-gromacs) - pdb2gmx, solvation, ions, minimization, NVT/NPT equilibration, production MD Trigger: When the user asks to run a (quick) molecular dynamics simulation of a protein, prepare a solvated+neutralized system, or produce equilibrated gro/xtc/tpr files for a protein structure"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin

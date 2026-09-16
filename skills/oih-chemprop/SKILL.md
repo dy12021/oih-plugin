@@ -1,6 +1,6 @@
 ---
 name: oih-chemprop
-description: ADMET property prediction with chemprop (Docker container oih-chemprop) — predict properties (default ESOL solubility) from SMILES using trained models in the OIH model library Trigger: When the user asks to predict ADMET properties (solubility, lipophilicity, toxicity, etc.) from SMILES strings using a trained chemprop model
+description: "ADMET property prediction with chemprop (Docker container oih-chemprop) - predict properties (default ESOL solubility) from SMILES using trained models in the OIH model library Trigger: When the user asks to predict ADMET properties (solubility, lipophilicity, toxicity, etc.) from SMILES strings using a trained chemprop model"
 ---
 
 > Note: `${PLUGIN_DIR}` is the absolute install path of this plugin
